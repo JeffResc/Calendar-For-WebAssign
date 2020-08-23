@@ -1,3 +1,4 @@
+![Calendar For WebAssign Icon](https://raw.githubusercontent.com/JeffResc/Calendar-For-WebAssign/master/icons/icons8-calendar-144.png)
 # Calendar-For-WebAssign
 Adds an Add to Calendar button on WebAssign
 
