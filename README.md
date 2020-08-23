@@ -7,3 +7,5 @@ Tested on [Firefox 79.0 (64-bit)](https://www.mozilla.org/en-US/firefox/79.0/rel
 Allows users to automatically add WebAssign events to their own personal calendars in order to keep track of their assignments on their own calendar. Utilizes [add-to-calendar-buttons by carlsednaoui](https://github.com/carlsednaoui/add-to-calendar-buttons/).
 
 Icon created by [Icons8](https://icons8.com/icon/WpQIVxfhhzqt/calendar).
+
+![Demo Screenshot](https://raw.githubusercontent.com/JeffResc/Calendar-For-WebAssign/master/Capture.PNG)
