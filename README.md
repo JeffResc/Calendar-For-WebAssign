@@ -9,3 +9,9 @@ Allows users to automatically add WebAssign events to their own personal calenda
 Icon created by [Icons8](https://icons8.com/icon/WpQIVxfhhzqt/calendar).
 
 ![Demo Screenshot](https://raw.githubusercontent.com/JeffResc/Calendar-For-WebAssign/master/Capture.PNG)
+
+# Installation
+| Browser | Download |
+|-|-|
+| Chrome | Pending store review... |
+| Firefox | [Download here]((https://github.com/JeffResc/Calendar-For-WebAssign/releases/download/v1.0/calendar_for_webassign-1.0-fx.xpi)) |
