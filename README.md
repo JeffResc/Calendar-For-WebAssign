@@ -14,4 +14,4 @@ Icon created by [Icons8](https://icons8.com/icon/WpQIVxfhhzqt/calendar).
 | Browser | Download |
 |-|-|
 | Chrome | Pending store review... |
-| Firefox | [Download here]((https://github.com/JeffResc/Calendar-For-WebAssign/releases/download/v1.0/calendar_for_webassign-1.0-fx.xpi)) |
+| Firefox | [Download here](https://github.com/JeffResc/Calendar-For-WebAssign/releases/download/v1.0/calendar_for_webassign-1.0-fx.xpi) |
